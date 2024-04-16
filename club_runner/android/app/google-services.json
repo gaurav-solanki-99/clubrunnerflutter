@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124735948998",
+    "project_id": "clubrunner-4947e",
+    "storage_bucket": "clubrunner-4947e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124735948998:android:4a4aaba028c721b03fefc7",
+        "android_client_info": {
+          "package_name": "com.club.runner.club_runner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EUrkxBX5Y3r9pnb0urWlWtqK3f5IOcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
